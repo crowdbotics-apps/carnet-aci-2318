@@ -1,0 +1,3 @@
+rootProject.name = 'carnet_aci_2318'
+
+include ':app'
